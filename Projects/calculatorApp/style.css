@@ -1,0 +1,21 @@
+button{
+    font-size: 2rem !important;
+    color: black !important;
+    height: 61px;
+    width: 61px;
+    border-radius: 18px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+input {
+    width: 24rem;
+    height: 3rem;
+    font-size: 1.5rem;
+    border-radius: 15px !important;
+}
+
+#col-calc {
+    background-color: aqua;
+    border-radius: 20px;
+}

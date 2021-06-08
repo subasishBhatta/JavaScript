@@ -1,0 +1,5339 @@
+{
+  'Africa/Bamako': {
+    name: 'Africa/Bamako',
+    country: 'ML',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Africa/Abidjan'
+  },
+  'Africa/Banjul': {
+    name: 'Africa/Banjul',
+    country: 'GM',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Africa/Abidjan'
+  },
+  'Africa/Conakry': {
+    name: 'Africa/Conakry',
+    country: 'GN',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Africa/Abidjan'
+  },
+  'Africa/Dakar': {
+    name: 'Africa/Dakar',
+    country: 'SN',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Africa/Abidjan'
+  },
+  'Africa/Freetown': {
+    name: 'Africa/Freetown',
+    country: 'SL',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Africa/Abidjan'
+  },
+  'Africa/Lome': {
+    name: 'Africa/Lome',
+    country: 'TG',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Africa/Abidjan'
+  },
+  'Africa/Nouakchott': {
+    name: 'Africa/Nouakchott',
+    country: 'MR',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Africa/Abidjan'
+  },
+  'Africa/Ouagadougou': {
+    name: 'Africa/Ouagadougou',
+    country: 'BF',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Africa/Abidjan'
+  },
+  'Africa/Timbuktu': {
+    name: 'Africa/Timbuktu',
+    country: 'CI',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Africa/Abidjan'
+  },
+  'Atlantic/St_Helena': {
+    name: 'Atlantic/St_Helena',
+    country: 'SH',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Africa/Abidjan'
+  },
+  Egypt: {
+    name: 'Egypt',
+    country: 'EG',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Africa/Cairo'
+  },
+  'Africa/Maseru': {
+    name: 'Africa/Maseru',
+    country: 'LS',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Africa/Johannesburg'
+  },
+  'Africa/Mbabane': {
+    name: 'Africa/Mbabane',
+    country: 'SZ',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Africa/Johannesburg'
+  },
+  'Africa/Bangui': {
+    name: 'Africa/Bangui',
+    country: 'CF',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Africa/Lagos'
+  },
+  'Africa/Brazzaville': {
+    name: 'Africa/Brazzaville',
+    country: 'CG',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Africa/Lagos'
+  },
+  'Africa/Douala': {
+    name: 'Africa/Douala',
+    country: 'CM',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Africa/Lagos'
+  },
+  'Africa/Kinshasa': {
+    name: 'Africa/Kinshasa',
+    country: 'CD',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Africa/Lagos'
+  },
+  'Africa/Libreville': {
+    name: 'Africa/Libreville',
+    country: 'GA',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Africa/Lagos'
+  },
+  'Africa/Luanda': {
+    name: 'Africa/Luanda',
+    country: 'AO',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Africa/Lagos'
+  },
+  'Africa/Malabo': {
+    name: 'Africa/Malabo',
+    country: 'GQ',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Africa/Lagos'
+  },
+  'Africa/Niamey': {
+    name: 'Africa/Niamey',
+    country: 'NE',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Africa/Lagos'
+  },
+  'Africa/Porto-Novo': {
+    name: 'Africa/Porto-Novo',
+    country: 'BJ',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Africa/Lagos'
+  },
+  'Africa/Blantyre': {
+    name: 'Africa/Blantyre',
+    country: 'MW',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Africa/Maputo'
+  },
+  'Africa/Bujumbura': {
+    name: 'Africa/Bujumbura',
+    country: 'BI',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Africa/Maputo'
+  },
+  'Africa/Gaborone': {
+    name: 'Africa/Gaborone',
+    country: 'BW',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Africa/Maputo'
+  },
+  'Africa/Harare': {
+    name: 'Africa/Harare',
+    country: 'ZW',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Africa/Maputo'
+  },
+  'Africa/Kigali': {
+    name: 'Africa/Kigali',
+    country: 'RW',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Africa/Maputo'
+  },
+  'Africa/Lubumbashi': {
+    name: 'Africa/Lubumbashi',
+    country: 'CD',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Africa/Maputo'
+  },
+  'Africa/Lusaka': {
+    name: 'Africa/Lusaka',
+    country: 'ZM',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Africa/Maputo'
+  },
+  'Africa/Addis_Ababa': {
+    name: 'Africa/Addis_Ababa',
+    country: 'ET',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Africa/Nairobi'
+  },
+  'Africa/Asmara': {
+    name: 'Africa/Asmara',
+    country: 'ER',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Africa/Nairobi'
+  },
+  'Africa/Asmera': {
+    name: 'Africa/Asmera',
+    country: 'KE',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Africa/Nairobi'
+  },
+  'Africa/Dar_es_Salaam': {
+    name: 'Africa/Dar_es_Salaam',
+    country: 'TZ',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Africa/Nairobi'
+  },
+  'Africa/Djibouti': {
+    name: 'Africa/Djibouti',
+    country: 'DJ',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Africa/Nairobi'
+  },
+  'Africa/Kampala': {
+    name: 'Africa/Kampala',
+    country: 'UG',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Africa/Nairobi'
+  },
+  'Africa/Mogadishu': {
+    name: 'Africa/Mogadishu',
+    country: 'SO',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Africa/Nairobi'
+  },
+  'Indian/Antananarivo': {
+    name: 'Indian/Antananarivo',
+    country: 'MG',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Africa/Nairobi'
+  },
+  'Indian/Comoro': {
+    name: 'Indian/Comoro',
+    country: 'KM',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Africa/Nairobi'
+  },
+  'Indian/Mayotte': {
+    name: 'Indian/Mayotte',
+    country: 'YT',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Africa/Nairobi'
+  },
+  Libya: {
+    name: 'Libya',
+    country: 'LY',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Africa/Tripoli'
+  },
+  'America/Atka': {
+    name: 'America/Atka',
+    country: 'US',
+    utcOffset: -600,
+    utcOffsetStr: '-10:00',
+    dstOffset: -540,
+    dstOffsetStr: '-09:00',
+    aliasOf: 'America/Adak'
+  },
+  'US/Aleutian': {
+    name: 'US/Aleutian',
+    country: 'US',
+    utcOffset: -600,
+    utcOffsetStr: '-10:00',
+    dstOffset: -540,
+    dstOffsetStr: '-09:00',
+    aliasOf: 'America/Adak'
+  },
+  'US/Alaska': {
+    name: 'US/Alaska',
+    country: 'US',
+    utcOffset: -540,
+    utcOffsetStr: '-09:00',
+    dstOffset: -480,
+    dstOffsetStr: '-08:00',
+    aliasOf: 'America/Anchorage'
+  },
+  'America/Buenos_Aires': {
+    name: 'America/Buenos_Aires',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: 'America/Argentina/Buenos_Aires'
+  },
+  'America/Argentina/ComodRivadavia': {
+    name: 'America/Argentina/ComodRivadavia',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: 'America/Argentina/Catamarca'
+  },
+  'America/Catamarca': {
+    name: 'America/Catamarca',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: 'America/Argentina/Catamarca'
+  },
+  'America/Cordoba': {
+    name: 'America/Cordoba',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: 'America/Argentina/Cordoba'
+  },
+  'America/Rosario': {
+    name: 'America/Rosario',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: 'America/Argentina/Cordoba'
+  },
+  'America/Jujuy': {
+    name: 'America/Jujuy',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: 'America/Argentina/Jujuy'
+  },
+  'America/Mendoza': {
+    name: 'America/Mendoza',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: 'America/Argentina/Mendoza'
+  },
+  'America/Coral_Harbour': {
+    name: 'America/Coral_Harbour',
+    country: 'CA',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: 'America/Atikokan'
+  },
+  'US/Central': {
+    name: 'US/Central',
+    country: 'US',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: 'America/Chicago'
+  },
+  'America/Aruba': {
+    name: 'America/Aruba',
+    country: 'AW',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Curacao'
+  },
+  'America/Kralendijk': {
+    name: 'America/Kralendijk',
+    country: 'BQ',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Curacao'
+  },
+  'America/Lower_Princes': {
+    name: 'America/Lower_Princes',
+    country: 'SX',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Curacao'
+  },
+  'America/Shiprock': {
+    name: 'America/Shiprock',
+    country: 'US',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: 'America/Denver'
+  },
+  Navajo: {
+    name: 'Navajo',
+    country: 'US',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: 'America/Denver'
+  },
+  'US/Mountain': {
+    name: 'US/Mountain',
+    country: 'US',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: 'America/Denver'
+  },
+  'US/Michigan': {
+    name: 'US/Michigan',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Detroit'
+  },
+  'Canada/Mountain': {
+    name: 'Canada/Mountain',
+    country: 'CA',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: 'America/Edmonton'
+  },
+  'America/Indiana/Indianapolis': {
+    name: 'America/Indiana/Indianapolis',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Fort_Wayne'
+  },
+  'America/Indianapolis': {
+    name: 'America/Indianapolis',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Fort_Wayne'
+  },
+  'US/East-Indiana': {
+    name: 'US/East-Indiana',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Fort_Wayne'
+  },
+  'America/Nuuk': {
+    name: 'America/Nuuk',
+    country: 'GL',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -120,
+    dstOffsetStr: '-02:00',
+    aliasOf: null
+  },
+  'Canada/Atlantic': {
+    name: 'Canada/Atlantic',
+    country: 'CA',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: 'America/Halifax'
+  },
+  Cuba: {
+    name: 'Cuba',
+    country: 'CU',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Havana'
+  },
+  'America/Knox_IN': {
+    name: 'America/Knox_IN',
+    country: 'US',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: 'America/Indiana/Knox'
+  },
+  'US/Indiana-Starke': {
+    name: 'US/Indiana-Starke',
+    country: 'US',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: 'America/Indiana/Knox'
+  },
+  Jamaica: {
+    name: 'Jamaica',
+    country: 'JM',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: 'America/Jamaica'
+  },
+  'America/Louisville': {
+    name: 'America/Louisville',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Kentucky/Louisville'
+  },
+  'US/Pacific': {
+    name: 'US/Pacific',
+    country: 'US',
+    utcOffset: -480,
+    utcOffsetStr: '-08:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: 'America/Los_Angeles'
+  },
+  'Brazil/West': {
+    name: 'Brazil/West',
+    country: 'BR',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Manaus'
+  },
+  'Mexico/BajaSur': {
+    name: 'Mexico/BajaSur',
+    country: 'MX',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: 'America/Mazatlan'
+  },
+  'Mexico/General': {
+    name: 'Mexico/General',
+    country: 'MX',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: 'America/Mexico_City'
+  },
+  'US/Eastern': {
+    name: 'US/Eastern',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/New_York'
+  },
+  'Brazil/DeNoronha': {
+    name: 'Brazil/DeNoronha',
+    country: 'BR',
+    utcOffset: -120,
+    utcOffsetStr: '-02:00',
+    dstOffset: -120,
+    dstOffsetStr: '-02:00',
+    aliasOf: 'America/Noronha'
+  },
+  'America/Cayman': {
+    name: 'America/Cayman',
+    country: 'KY',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: 'America/Panama'
+  },
+  'US/Arizona': {
+    name: 'US/Arizona',
+    country: 'US',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: 'America/Phoenix'
+  },
+  'America/Anguilla': {
+    name: 'America/Anguilla',
+    country: 'AI',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/Antigua': {
+    name: 'America/Antigua',
+    country: 'AG',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/Dominica': {
+    name: 'America/Dominica',
+    country: 'DM',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/Grenada': {
+    name: 'America/Grenada',
+    country: 'GD',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/Guadeloupe': {
+    name: 'America/Guadeloupe',
+    country: 'GP',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/Marigot': {
+    name: 'America/Marigot',
+    country: 'MF',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/Montserrat': {
+    name: 'America/Montserrat',
+    country: 'MS',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/St_Barthelemy': {
+    name: 'America/St_Barthelemy',
+    country: 'BL',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/St_Kitts': {
+    name: 'America/St_Kitts',
+    country: 'KN',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/St_Lucia': {
+    name: 'America/St_Lucia',
+    country: 'LC',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/St_Thomas': {
+    name: 'America/St_Thomas',
+    country: 'VI',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/St_Vincent': {
+    name: 'America/St_Vincent',
+    country: 'VC',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/Tortola': {
+    name: 'America/Tortola',
+    country: 'VG',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'America/Virgin': {
+    name: 'America/Virgin',
+    country: 'TT',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Port_of_Spain'
+  },
+  'Canada/Saskatchewan': {
+    name: 'Canada/Saskatchewan',
+    country: 'CA',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: 'America/Regina'
+  },
+  'America/Porto_Acre': {
+    name: 'America/Porto_Acre',
+    country: 'BR',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: 'America/Rio_Branco'
+  },
+  'Brazil/Acre': {
+    name: 'Brazil/Acre',
+    country: 'BR',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: 'America/Rio_Branco'
+  },
+  'Chile/Continental': {
+    name: 'Chile/Continental',
+    country: 'CL',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: 'America/Santiago'
+  },
+  'Brazil/East': {
+    name: 'Brazil/East',
+    country: 'BR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: 'America/Sao_Paulo'
+  },
+  'Canada/Newfoundland': {
+    name: 'Canada/Newfoundland',
+    country: 'CA',
+    utcOffset: -210,
+    utcOffsetStr: '-04:30',
+    dstOffset: -150,
+    dstOffsetStr: '-03:30',
+    aliasOf: 'America/St_Johns'
+  },
+  'America/Ensenada': {
+    name: 'America/Ensenada',
+    country: 'MX',
+    utcOffset: -480,
+    utcOffsetStr: '-08:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: 'America/Tijuana'
+  },
+  'America/Santa_Isabel': {
+    name: 'America/Santa_Isabel',
+    country: 'MX',
+    utcOffset: -480,
+    utcOffsetStr: '-08:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: 'America/Tijuana'
+  },
+  'Mexico/BajaNorte': {
+    name: 'Mexico/BajaNorte',
+    country: 'MX',
+    utcOffset: -480,
+    utcOffsetStr: '-08:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: 'America/Tijuana'
+  },
+  'America/Montreal': {
+    name: 'America/Montreal',
+    country: 'CA',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Toronto'
+  },
+  'Canada/Eastern': {
+    name: 'Canada/Eastern',
+    country: 'CA',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: 'America/Toronto'
+  },
+  'Canada/Pacific': {
+    name: 'Canada/Pacific',
+    country: 'CA',
+    utcOffset: -480,
+    utcOffsetStr: '-08:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: 'America/Vancouver'
+  },
+  'Canada/Yukon': {
+    name: 'Canada/Yukon',
+    country: 'CA',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: 'America/Whitehorse'
+  },
+  'Canada/Central': {
+    name: 'Canada/Central',
+    country: 'CA',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: 'America/Winnipeg'
+  },
+  'Asia/Ashkhabad': {
+    name: 'Asia/Ashkhabad',
+    country: 'TM',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: 'Asia/Ashgabat'
+  },
+  'Asia/Phnom_Penh': {
+    name: 'Asia/Phnom_Penh',
+    country: 'KH',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: 'Asia/Bangkok'
+  },
+  'Asia/Vientiane': {
+    name: 'Asia/Vientiane',
+    country: 'LA',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: 'Asia/Bangkok'
+  },
+  'Asia/Dacca': {
+    name: 'Asia/Dacca',
+    country: 'BD',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: 'Asia/Dhaka'
+  },
+  'Asia/Muscat': {
+    name: 'Asia/Muscat',
+    country: 'OM',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: 'Asia/Dubai'
+  },
+  'Asia/Saigon': {
+    name: 'Asia/Saigon',
+    country: 'VN',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: 'Asia/Ho_Chi_Minh'
+  },
+  Hongkong: {
+    name: 'Hongkong',
+    country: 'HK',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Asia/Hong_Kong'
+  },
+  'Asia/Tel_Aviv': {
+    name: 'Asia/Tel_Aviv',
+    country: 'IL',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Asia/Jerusalem'
+  },
+  Israel: {
+    name: 'Israel',
+    country: 'IL',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Asia/Jerusalem'
+  },
+  'Asia/Katmandu': {
+    name: 'Asia/Katmandu',
+    country: 'NP',
+    utcOffset: 345,
+    utcOffsetStr: '+05:45',
+    dstOffset: 345,
+    dstOffsetStr: '+05:45',
+    aliasOf: 'Asia/Kathmandu'
+  },
+  'Asia/Calcutta': {
+    name: 'Asia/Calcutta',
+    country: 'IN',
+    utcOffset: 330,
+    utcOffsetStr: '+05:30',
+    dstOffset: 330,
+    dstOffsetStr: '+05:30',
+    aliasOf: 'Asia/Kolkata'
+  },
+  'Asia/Singapore': {
+    name: 'Asia/Singapore',
+    country: 'SG',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Asia/Kuala_Lumpur'
+  },
+  Singapore: {
+    name: 'Singapore',
+    country: 'MY',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Asia/Kuala_Lumpur'
+  },
+  'Asia/Macao': {
+    name: 'Asia/Macao',
+    country: 'MO',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Asia/Macau'
+  },
+  'Asia/Ujung_Pandang': {
+    name: 'Asia/Ujung_Pandang',
+    country: 'ID',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Asia/Makassar'
+  },
+  'Europe/Nicosia': {
+    name: 'Europe/Nicosia',
+    country: 'CY',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Asia/Nicosia'
+  },
+  'Asia/Bahrain': {
+    name: 'Asia/Bahrain',
+    country: 'BH',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Asia/Qatar'
+  },
+  'Asia/Yangon': {
+    name: 'Asia/Yangon',
+    country: 'MM',
+    utcOffset: 390,
+    utcOffsetStr: '+06:30',
+    dstOffset: 390,
+    dstOffsetStr: '+06:30',
+    aliasOf: 'Asia/Rangoon'
+  },
+  'Asia/Aden': {
+    name: 'Asia/Aden',
+    country: 'YE',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Asia/Riyadh'
+  },
+  'Asia/Kuwait': {
+    name: 'Asia/Kuwait',
+    country: 'KW',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Asia/Riyadh'
+  },
+  ROK: {
+    name: 'ROK',
+    country: 'KR',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: 'Asia/Seoul'
+  },
+  'Asia/Chongqing': {
+    name: 'Asia/Chongqing',
+    country: 'CN',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Asia/Shanghai'
+  },
+  'Asia/Chungking': {
+    name: 'Asia/Chungking',
+    country: 'CN',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Asia/Shanghai'
+  },
+  'Asia/Harbin': {
+    name: 'Asia/Harbin',
+    country: 'CN',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Asia/Shanghai'
+  },
+  PRC: {
+    name: 'PRC',
+    country: 'CN',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Asia/Shanghai'
+  },
+  ROC: {
+    name: 'ROC',
+    country: 'TW',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Asia/Taipei'
+  },
+  Iran: {
+    name: 'Iran',
+    country: 'IR',
+    utcOffset: 210,
+    utcOffsetStr: '+03:30',
+    dstOffset: 270,
+    dstOffsetStr: '+04:30',
+    aliasOf: 'Asia/Tehran'
+  },
+  'Asia/Thimbu': {
+    name: 'Asia/Thimbu',
+    country: 'BT',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: 'Asia/Thimphu'
+  },
+  Japan: {
+    name: 'Japan',
+    country: 'JP',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: 'Asia/Tokyo'
+  },
+  'Asia/Ulan_Bator': {
+    name: 'Asia/Ulan_Bator',
+    country: 'MN',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Asia/Ulaanbaatar'
+  },
+  'Asia/Kashgar': {
+    name: 'Asia/Kashgar',
+    country: 'CN',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: 'Asia/Urumqi'
+  },
+  'Atlantic/Faeroe': {
+    name: 'Atlantic/Faeroe',
+    country: 'FO',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Atlantic/Faroe'
+  },
+  Iceland: {
+    name: 'Iceland',
+    country: 'IS',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Atlantic/Reykjavik'
+  },
+  'Etc/GMT+2': {
+    name: 'Etc/GMT+2',
+    country: 'GS',
+    utcOffset: -120,
+    utcOffsetStr: '-02:00',
+    dstOffset: -120,
+    dstOffsetStr: '-02:00',
+    aliasOf: 'Atlantic/South_Georgia'
+  },
+  'Australia/South': {
+    name: 'Australia/South',
+    country: 'AU',
+    utcOffset: 570,
+    utcOffsetStr: '+09:30',
+    dstOffset: 630,
+    dstOffsetStr: '+10:30',
+    aliasOf: 'Australia/Adelaide'
+  },
+  'Australia/Queensland': {
+    name: 'Australia/Queensland',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: 'Australia/Brisbane'
+  },
+  'Australia/Yancowinna': {
+    name: 'Australia/Yancowinna',
+    country: 'AU',
+    utcOffset: 570,
+    utcOffsetStr: '+09:30',
+    dstOffset: 630,
+    dstOffsetStr: '+10:30',
+    aliasOf: 'Australia/Broken_Hill'
+  },
+  'Australia/North': {
+    name: 'Australia/North',
+    country: 'AU',
+    utcOffset: 570,
+    utcOffsetStr: '+09:30',
+    dstOffset: 570,
+    dstOffsetStr: '+09:30',
+    aliasOf: 'Australia/Darwin'
+  },
+  'Australia/Currie': {
+    name: 'Australia/Currie',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: 'Australia/Hobart'
+  },
+  'Australia/Tasmania': {
+    name: 'Australia/Tasmania',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: 'Australia/Hobart'
+  },
+  'Australia/LHI': {
+    name: 'Australia/LHI',
+    country: 'AU',
+    utcOffset: 630,
+    utcOffsetStr: '+10:30',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: 'Australia/Lord_Howe'
+  },
+  'Australia/Victoria': {
+    name: 'Australia/Victoria',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: 'Australia/Melbourne'
+  },
+  'Australia/West': {
+    name: 'Australia/West',
+    country: 'AU',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: 'Australia/Perth'
+  },
+  'Australia/ACT': {
+    name: 'Australia/ACT',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: 'Australia/Sydney'
+  },
+  'Australia/Canberra': {
+    name: 'Australia/Canberra',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: 'Australia/Sydney'
+  },
+  'Australia/NSW': {
+    name: 'Australia/NSW',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: 'Australia/Sydney'
+  },
+  'Etc/GMT': {
+    name: 'Etc/GMT',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/GMT-0'
+  },
+  'Etc/GMT+0': {
+    name: 'Etc/GMT+0',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/GMT-0'
+  },
+  'Etc/GMT0': {
+    name: 'Etc/GMT0',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/GMT-0'
+  },
+  'Etc/Greenwich': {
+    name: 'Etc/Greenwich',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/GMT-0'
+  },
+  GMT: {
+    name: 'GMT',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/GMT-0'
+  },
+  'GMT+0': {
+    name: 'GMT+0',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/GMT-0'
+  },
+  'GMT-0': {
+    name: 'GMT-0',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/GMT-0'
+  },
+  GMT0: {
+    name: 'GMT0',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/GMT-0'
+  },
+  Greenwich: {
+    name: 'Greenwich',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/GMT-0'
+  },
+  'Etc/UCT': {
+    name: 'Etc/UCT',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/UTC'
+  },
+  'Etc/Universal': {
+    name: 'Etc/Universal',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/UTC'
+  },
+  'Etc/Zulu': {
+    name: 'Etc/Zulu',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/UTC'
+  },
+  UCT: {
+    name: 'UCT',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/UTC'
+  },
+  UTC: {
+    name: 'UTC',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/UTC'
+  },
+  Universal: {
+    name: 'Universal',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/UTC'
+  },
+  Zulu: {
+    name: 'Zulu',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: 'Etc/UTC'
+  },
+  'Europe/Ljubljana': {
+    name: 'Europe/Ljubljana',
+    country: 'SI',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Belgrade'
+  },
+  'Europe/Podgorica': {
+    name: 'Europe/Podgorica',
+    country: 'ME',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Belgrade'
+  },
+  'Europe/Sarajevo': {
+    name: 'Europe/Sarajevo',
+    country: 'BA',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Belgrade'
+  },
+  'Europe/Skopje': {
+    name: 'Europe/Skopje',
+    country: 'MK',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Belgrade'
+  },
+  'Europe/Zagreb': {
+    name: 'Europe/Zagreb',
+    country: 'HR',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Belgrade'
+  },
+  'Europe/Tiraspol': {
+    name: 'Europe/Tiraspol',
+    country: 'MD',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Europe/Chisinau'
+  },
+  Eire: {
+    name: 'Eire',
+    country: 'IE',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Europe/Dublin'
+  },
+  'Europe/Mariehamn': {
+    name: 'Europe/Mariehamn',
+    country: 'AX',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Europe/Helsinki'
+  },
+  'Asia/Istanbul': {
+    name: 'Asia/Istanbul',
+    country: 'TR',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Europe/Istanbul'
+  },
+  Turkey: {
+    name: 'Turkey',
+    country: 'TR',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Europe/Istanbul'
+  },
+  Portugal: {
+    name: 'Portugal',
+    country: 'PT',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Europe/Lisbon'
+  },
+  'Europe/Belfast': {
+    name: 'Europe/Belfast',
+    country: 'GB',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Europe/London'
+  },
+  'Europe/Guernsey': {
+    name: 'Europe/Guernsey',
+    country: 'GG',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Europe/London'
+  },
+  'Europe/Isle_of_Man': {
+    name: 'Europe/Isle_of_Man',
+    country: 'IM',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Europe/London'
+  },
+  'Europe/Jersey': {
+    name: 'Europe/Jersey',
+    country: 'JE',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Europe/London'
+  },
+  GB: {
+    name: 'GB',
+    country: 'GB',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Europe/London'
+  },
+  'GB-Eire': {
+    name: 'GB-Eire',
+    country: 'GB',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: 'Europe/London'
+  },
+  'W-SU': {
+    name: 'W-SU',
+    country: 'RU',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: 'Europe/Moscow'
+  },
+  'Arctic/Longyearbyen': {
+    name: 'Arctic/Longyearbyen',
+    country: 'SJ',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Oslo'
+  },
+  'Atlantic/Jan_Mayen': {
+    name: 'Atlantic/Jan_Mayen',
+    country: 'NO',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Oslo'
+  },
+  'Europe/Bratislava': {
+    name: 'Europe/Bratislava',
+    country: 'SK',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Prague'
+  },
+  'Europe/San_Marino': {
+    name: 'Europe/San_Marino',
+    country: 'SM',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Rome'
+  },
+  'Europe/Vatican': {
+    name: 'Europe/Vatican',
+    country: 'VA',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Rome'
+  },
+  Poland: {
+    name: 'Poland',
+    country: 'PL',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Warsaw'
+  },
+  'Europe/Busingen': {
+    name: 'Europe/Busingen',
+    country: 'DE',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Zurich'
+  },
+  'Europe/Vaduz': {
+    name: 'Europe/Vaduz',
+    country: 'LI',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: 'Europe/Zurich'
+  },
+  'Etc/GMT-7': {
+    name: 'Etc/GMT-7',
+    country: 'CX',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: 'Indian/Christmas'
+  },
+  'Antarctica/McMurdo': {
+    name: 'Antarctica/McMurdo',
+    country: 'AQ',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 780,
+    dstOffsetStr: '+13:00',
+    aliasOf: 'Pacific/Auckland'
+  },
+  'Antarctica/South_Pole': {
+    name: 'Antarctica/South_Pole',
+    country: 'NZ',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 780,
+    dstOffsetStr: '+13:00',
+    aliasOf: 'Pacific/Auckland'
+  },
+  NZ: {
+    name: 'NZ',
+    country: 'NZ',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 780,
+    dstOffsetStr: '+13:00',
+    aliasOf: 'Pacific/Auckland'
+  },
+  'NZ-CHAT': {
+    name: 'NZ-CHAT',
+    country: 'NZ',
+    utcOffset: 765,
+    utcOffsetStr: '+12:45',
+    dstOffset: 825,
+    dstOffsetStr: '+13:45',
+    aliasOf: 'Pacific/Chatham'
+  },
+  'Pacific/Truk': {
+    name: 'Pacific/Truk',
+    country: 'FM',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: 'Pacific/Chuuk'
+  },
+  'Pacific/Yap': {
+    name: 'Pacific/Yap',
+    country: 'FM',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: 'Pacific/Chuuk'
+  },
+  'Chile/EasterIsland': {
+    name: 'Chile/EasterIsland',
+    country: 'CL',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: 'Pacific/Easter'
+  },
+  'Pacific/Saipan': {
+    name: 'Pacific/Saipan',
+    country: 'MP',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: 'Pacific/Guam'
+  },
+  'Pacific/Johnston': {
+    name: 'Pacific/Johnston',
+    country: 'US',
+    utcOffset: -600,
+    utcOffsetStr: '-10:00',
+    dstOffset: -600,
+    dstOffsetStr: '-10:00',
+    aliasOf: 'Pacific/Honolulu'
+  },
+  'US/Hawaii': {
+    name: 'US/Hawaii',
+    country: 'US',
+    utcOffset: -600,
+    utcOffsetStr: '-10:00',
+    dstOffset: -600,
+    dstOffsetStr: '-10:00',
+    aliasOf: 'Pacific/Honolulu'
+  },
+  Kwajalein: {
+    name: 'Kwajalein',
+    country: 'MH',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: 'Pacific/Kwajalein'
+  },
+  'Pacific/Midway': {
+    name: 'Pacific/Midway',
+    country: 'UM',
+    utcOffset: -660,
+    utcOffsetStr: '-11:00',
+    dstOffset: -660,
+    dstOffsetStr: '-11:00',
+    aliasOf: 'Pacific/Pago_Pago'
+  },
+  'Pacific/Samoa': {
+    name: 'Pacific/Samoa',
+    country: 'AS',
+    utcOffset: -660,
+    utcOffsetStr: '-11:00',
+    dstOffset: -660,
+    dstOffsetStr: '-11:00',
+    aliasOf: 'Pacific/Pago_Pago'
+  },
+  'US/Samoa': {
+    name: 'US/Samoa',
+    country: 'AS',
+    utcOffset: -660,
+    utcOffsetStr: '-11:00',
+    dstOffset: -660,
+    dstOffsetStr: '-11:00',
+    aliasOf: 'Pacific/Pago_Pago'
+  },
+  'Etc/GMT-9': {
+    name: 'Etc/GMT-9',
+    country: 'PW',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: 'Pacific/Palau'
+  },
+  'Pacific/Ponape': {
+    name: 'Pacific/Ponape',
+    country: 'FM',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: 'Pacific/Pohnpei'
+  },
+  'Etc/GMT-10': {
+    name: 'Etc/GMT-10',
+    country: 'PG',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: 'Pacific/Port_Moresby'
+  },
+  'Etc/GMT-12': {
+    name: 'Etc/GMT-12',
+    country: 'KI',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: 'Pacific/Tarawa'
+  },
+  'Pacific/Funafuti': {
+    name: 'Pacific/Funafuti',
+    country: 'TV',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: 'Pacific/Tarawa'
+  },
+  'Pacific/Wake': {
+    name: 'Pacific/Wake',
+    country: 'UM',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: 'Pacific/Tarawa'
+  },
+  'Pacific/Wallis': {
+    name: 'Pacific/Wallis',
+    country: 'WF',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: 'Pacific/Tarawa'
+  },
+  'Africa/Abidjan': {
+    name: 'Africa/Abidjan',
+    country: 'CI',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: null
+  },
+  'Africa/Accra': {
+    name: 'Africa/Accra',
+    country: 'GH',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: null
+  },
+  'Africa/Nairobi': {
+    name: 'Africa/Nairobi',
+    country: 'KE',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Africa/Algiers': {
+    name: 'Africa/Algiers',
+    country: 'DZ',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Africa/Lagos': {
+    name: 'Africa/Lagos',
+    country: 'NG',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Africa/Bissau': {
+    name: 'Africa/Bissau',
+    country: 'GW',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: null
+  },
+  'Africa/Maputo': {
+    name: 'Africa/Maputo',
+    country: 'MZ',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Africa/Cairo': {
+    name: 'Africa/Cairo',
+    country: 'EG',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Africa/Casablanca': {
+    name: 'Africa/Casablanca',
+    country: 'MA',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Africa/Ceuta': {
+    name: 'Africa/Ceuta',
+    country: 'ES',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Africa/El_Aaiun': {
+    name: 'Africa/El_Aaiun',
+    country: 'EH',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Africa/Johannesburg': {
+    name: 'Africa/Johannesburg',
+    country: 'ZA',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Africa/Juba': {
+    name: 'Africa/Juba',
+    country: 'SS',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Africa/Khartoum': {
+    name: 'Africa/Khartoum',
+    country: 'SD',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Africa/Monrovia': {
+    name: 'Africa/Monrovia',
+    country: 'LR',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: null
+  },
+  'Africa/Ndjamena': {
+    name: 'Africa/Ndjamena',
+    country: 'TD',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Africa/Sao_Tome': {
+    name: 'Africa/Sao_Tome',
+    country: 'ST',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: null
+  },
+  'Africa/Tripoli': {
+    name: 'Africa/Tripoli',
+    country: 'LY',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Africa/Tunis': {
+    name: 'Africa/Tunis',
+    country: 'TN',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Africa/Windhoek': {
+    name: 'Africa/Windhoek',
+    country: 'NA',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'America/Adak': {
+    name: 'America/Adak',
+    country: 'US',
+    utcOffset: -600,
+    utcOffsetStr: '-10:00',
+    dstOffset: -540,
+    dstOffsetStr: '-09:00',
+    aliasOf: null
+  },
+  'America/Anchorage': {
+    name: 'America/Anchorage',
+    country: 'US',
+    utcOffset: -540,
+    utcOffsetStr: '-09:00',
+    dstOffset: -480,
+    dstOffsetStr: '-08:00',
+    aliasOf: null
+  },
+  'America/Port_of_Spain': {
+    name: 'America/Port_of_Spain',
+    country: 'TT',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Araguaina': {
+    name: 'America/Araguaina',
+    country: 'BR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/Buenos_Aires': {
+    name: 'America/Argentina/Buenos_Aires',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/Catamarca': {
+    name: 'America/Argentina/Catamarca',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/Cordoba': {
+    name: 'America/Argentina/Cordoba',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/Jujuy': {
+    name: 'America/Argentina/Jujuy',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/La_Rioja': {
+    name: 'America/Argentina/La_Rioja',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/Mendoza': {
+    name: 'America/Argentina/Mendoza',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/Rio_Gallegos': {
+    name: 'America/Argentina/Rio_Gallegos',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/Salta': {
+    name: 'America/Argentina/Salta',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/San_Juan': {
+    name: 'America/Argentina/San_Juan',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/San_Luis': {
+    name: 'America/Argentina/San_Luis',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/Tucuman': {
+    name: 'America/Argentina/Tucuman',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Argentina/Ushuaia': {
+    name: 'America/Argentina/Ushuaia',
+    country: 'AR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Curacao': {
+    name: 'America/Curacao',
+    country: 'CW',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Asuncion': {
+    name: 'America/Asuncion',
+    country: 'PY',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Atikokan': {
+    name: 'America/Atikokan',
+    country: 'CA',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Bahia_Banderas': {
+    name: 'America/Bahia_Banderas',
+    country: 'MX',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Bahia': {
+    name: 'America/Bahia',
+    country: 'BR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Barbados': {
+    name: 'America/Barbados',
+    country: 'BB',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Belem': {
+    name: 'America/Belem',
+    country: 'BR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Belize': {
+    name: 'America/Belize',
+    country: 'BZ',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Blanc-Sablon': {
+    name: 'America/Blanc-Sablon',
+    country: 'CA',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Boa_Vista': {
+    name: 'America/Boa_Vista',
+    country: 'BR',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Bogota': {
+    name: 'America/Bogota',
+    country: 'CO',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Boise': {
+    name: 'America/Boise',
+    country: 'US',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Cambridge_Bay': {
+    name: 'America/Cambridge_Bay',
+    country: 'CA',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Campo_Grande': {
+    name: 'America/Campo_Grande',
+    country: 'BR',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Cancun': {
+    name: 'America/Cancun',
+    country: 'MX',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Caracas': {
+    name: 'America/Caracas',
+    country: 'VE',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Cayenne': {
+    name: 'America/Cayenne',
+    country: 'GF',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Panama': {
+    name: 'America/Panama',
+    country: 'PA',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Chicago': {
+    name: 'America/Chicago',
+    country: 'US',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Chihuahua': {
+    name: 'America/Chihuahua',
+    country: 'MX',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Costa_Rica': {
+    name: 'America/Costa_Rica',
+    country: 'CR',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Creston': {
+    name: 'America/Creston',
+    country: 'CA',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  'America/Cuiaba': {
+    name: 'America/Cuiaba',
+    country: 'BR',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Danmarkshavn': {
+    name: 'America/Danmarkshavn',
+    country: 'GL',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: null
+  },
+  'America/Dawson_Creek': {
+    name: 'America/Dawson_Creek',
+    country: 'CA',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  'America/Dawson': {
+    name: 'America/Dawson',
+    country: 'CA',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  'America/Denver': {
+    name: 'America/Denver',
+    country: 'US',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Detroit': {
+    name: 'America/Detroit',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Edmonton': {
+    name: 'America/Edmonton',
+    country: 'CA',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Eirunepe': {
+    name: 'America/Eirunepe',
+    country: 'BR',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/El_Salvador': {
+    name: 'America/El_Salvador',
+    country: 'SV',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Tijuana': {
+    name: 'America/Tijuana',
+    country: 'MX',
+    utcOffset: -480,
+    utcOffsetStr: '-08:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  'America/Fort_Nelson': {
+    name: 'America/Fort_Nelson',
+    country: 'CA',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  'America/Fort_Wayne': {
+    name: 'America/Fort_Wayne',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Fortaleza': {
+    name: 'America/Fortaleza',
+    country: 'BR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Glace_Bay': {
+    name: 'America/Glace_Bay',
+    country: 'CA',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Godthab': {
+    name: 'America/Godthab',
+    country: 'GL',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -120,
+    dstOffsetStr: '-02:00',
+    aliasOf: 'America/Nuuk'
+  },
+  'America/Goose_Bay': {
+    name: 'America/Goose_Bay',
+    country: 'CA',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Grand_Turk': {
+    name: 'America/Grand_Turk',
+    country: 'TC',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Guatemala': {
+    name: 'America/Guatemala',
+    country: 'GT',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Guayaquil': {
+    name: 'America/Guayaquil',
+    country: 'EC',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Guyana': {
+    name: 'America/Guyana',
+    country: 'GY',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Halifax': {
+    name: 'America/Halifax',
+    country: 'CA',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Havana': {
+    name: 'America/Havana',
+    country: 'CU',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Hermosillo': {
+    name: 'America/Hermosillo',
+    country: 'MX',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  'America/Indiana/Knox': {
+    name: 'America/Indiana/Knox',
+    country: 'US',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Indiana/Marengo': {
+    name: 'America/Indiana/Marengo',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Indiana/Petersburg': {
+    name: 'America/Indiana/Petersburg',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Indiana/Tell_City': {
+    name: 'America/Indiana/Tell_City',
+    country: 'US',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Indiana/Vevay': {
+    name: 'America/Indiana/Vevay',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Indiana/Vincennes': {
+    name: 'America/Indiana/Vincennes',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Indiana/Winamac': {
+    name: 'America/Indiana/Winamac',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Inuvik': {
+    name: 'America/Inuvik',
+    country: 'CA',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Iqaluit': {
+    name: 'America/Iqaluit',
+    country: 'CA',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Jamaica': {
+    name: 'America/Jamaica',
+    country: 'JM',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Juneau': {
+    name: 'America/Juneau',
+    country: 'US',
+    utcOffset: -540,
+    utcOffsetStr: '-09:00',
+    dstOffset: -480,
+    dstOffsetStr: '-08:00',
+    aliasOf: null
+  },
+  'America/Kentucky/Louisville': {
+    name: 'America/Kentucky/Louisville',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Kentucky/Monticello': {
+    name: 'America/Kentucky/Monticello',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/La_Paz': {
+    name: 'America/La_Paz',
+    country: 'BO',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Lima': {
+    name: 'America/Lima',
+    country: 'PE',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Los_Angeles': {
+    name: 'America/Los_Angeles',
+    country: 'US',
+    utcOffset: -480,
+    utcOffsetStr: '-08:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  'America/Maceio': {
+    name: 'America/Maceio',
+    country: 'BR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Managua': {
+    name: 'America/Managua',
+    country: 'NI',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Manaus': {
+    name: 'America/Manaus',
+    country: 'BR',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Martinique': {
+    name: 'America/Martinique',
+    country: 'MQ',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Matamoros': {
+    name: 'America/Matamoros',
+    country: 'MX',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Mazatlan': {
+    name: 'America/Mazatlan',
+    country: 'MX',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Menominee': {
+    name: 'America/Menominee',
+    country: 'US',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Merida': {
+    name: 'America/Merida',
+    country: 'MX',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Metlakatla': {
+    name: 'America/Metlakatla',
+    country: 'US',
+    utcOffset: -540,
+    utcOffsetStr: '-09:00',
+    dstOffset: -480,
+    dstOffsetStr: '-08:00',
+    aliasOf: null
+  },
+  'America/Mexico_City': {
+    name: 'America/Mexico_City',
+    country: 'MX',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Miquelon': {
+    name: 'America/Miquelon',
+    country: 'PM',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -120,
+    dstOffsetStr: '-02:00',
+    aliasOf: null
+  },
+  'America/Moncton': {
+    name: 'America/Moncton',
+    country: 'CA',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Monterrey': {
+    name: 'America/Monterrey',
+    country: 'MX',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Montevideo': {
+    name: 'America/Montevideo',
+    country: 'UY',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Toronto': {
+    name: 'America/Toronto',
+    country: 'CA',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Nassau': {
+    name: 'America/Nassau',
+    country: 'BS',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/New_York': {
+    name: 'America/New_York',
+    country: 'US',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Nipigon': {
+    name: 'America/Nipigon',
+    country: 'CA',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Nome': {
+    name: 'America/Nome',
+    country: 'US',
+    utcOffset: -540,
+    utcOffsetStr: '-09:00',
+    dstOffset: -480,
+    dstOffsetStr: '-08:00',
+    aliasOf: null
+  },
+  'America/Noronha': {
+    name: 'America/Noronha',
+    country: 'BR',
+    utcOffset: -120,
+    utcOffsetStr: '-02:00',
+    dstOffset: -120,
+    dstOffsetStr: '-02:00',
+    aliasOf: null
+  },
+  'America/North_Dakota/Beulah': {
+    name: 'America/North_Dakota/Beulah',
+    country: 'US',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/North_Dakota/Center': {
+    name: 'America/North_Dakota/Center',
+    country: 'US',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/North_Dakota/New_Salem': {
+    name: 'America/North_Dakota/New_Salem',
+    country: 'US',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Ojinaga': {
+    name: 'America/Ojinaga',
+    country: 'MX',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Pangnirtung': {
+    name: 'America/Pangnirtung',
+    country: 'CA',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Paramaribo': {
+    name: 'America/Paramaribo',
+    country: 'SR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Phoenix': {
+    name: 'America/Phoenix',
+    country: 'US',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  'America/Port-au-Prince': {
+    name: 'America/Port-au-Prince',
+    country: 'HT',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Rio_Branco': {
+    name: 'America/Rio_Branco',
+    country: 'BR',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Porto_Velho': {
+    name: 'America/Porto_Velho',
+    country: 'BR',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Puerto_Rico': {
+    name: 'America/Puerto_Rico',
+    country: 'PR',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Punta_Arenas': {
+    name: 'America/Punta_Arenas',
+    country: 'CL',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Rainy_River': {
+    name: 'America/Rainy_River',
+    country: 'CA',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Rankin_Inlet': {
+    name: 'America/Rankin_Inlet',
+    country: 'CA',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Recife': {
+    name: 'America/Recife',
+    country: 'BR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Regina': {
+    name: 'America/Regina',
+    country: 'CA',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Resolute': {
+    name: 'America/Resolute',
+    country: 'CA',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Santarem': {
+    name: 'America/Santarem',
+    country: 'BR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Santiago': {
+    name: 'America/Santiago',
+    country: 'CL',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Santo_Domingo': {
+    name: 'America/Santo_Domingo',
+    country: 'DO',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Sao_Paulo': {
+    name: 'America/Sao_Paulo',
+    country: 'BR',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Scoresbysund': {
+    name: 'America/Scoresbysund',
+    country: 'GL',
+    utcOffset: -60,
+    utcOffsetStr: '-01:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: null
+  },
+  'America/Sitka': {
+    name: 'America/Sitka',
+    country: 'US',
+    utcOffset: -540,
+    utcOffsetStr: '-09:00',
+    dstOffset: -480,
+    dstOffsetStr: '-08:00',
+    aliasOf: null
+  },
+  'America/St_Johns': {
+    name: 'America/St_Johns',
+    country: 'CA',
+    utcOffset: -210,
+    utcOffsetStr: '-04:30',
+    dstOffset: -150,
+    dstOffsetStr: '-03:30',
+    aliasOf: null
+  },
+  'America/Swift_Current': {
+    name: 'America/Swift_Current',
+    country: 'CA',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Tegucigalpa': {
+    name: 'America/Tegucigalpa',
+    country: 'HN',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'America/Thule': {
+    name: 'America/Thule',
+    country: 'GL',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'America/Thunder_Bay': {
+    name: 'America/Thunder_Bay',
+    country: 'CA',
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'America/Vancouver': {
+    name: 'America/Vancouver',
+    country: 'CA',
+    utcOffset: -480,
+    utcOffsetStr: '-08:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  'America/Whitehorse': {
+    name: 'America/Whitehorse',
+    country: 'CA',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  'America/Winnipeg': {
+    name: 'America/Winnipeg',
+    country: 'CA',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'America/Yakutat': {
+    name: 'America/Yakutat',
+    country: 'US',
+    utcOffset: -540,
+    utcOffsetStr: '-09:00',
+    dstOffset: -480,
+    dstOffsetStr: '-08:00',
+    aliasOf: null
+  },
+  'America/Yellowknife': {
+    name: 'America/Yellowknife',
+    country: 'CA',
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'Antarctica/Casey': {
+    name: 'Antarctica/Casey',
+    country: 'AQ',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Antarctica/Davis': {
+    name: 'Antarctica/Davis',
+    country: 'AQ',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Antarctica/DumontDUrville': {
+    name: 'Antarctica/DumontDUrville',
+    country: 'AQ',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: null
+  },
+  'Antarctica/Macquarie': {
+    name: 'Antarctica/Macquarie',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Antarctica/Mawson': {
+    name: 'Antarctica/Mawson',
+    country: 'AQ',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Pacific/Auckland': {
+    name: 'Pacific/Auckland',
+    country: 'NZ',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 780,
+    dstOffsetStr: '+13:00',
+    aliasOf: null
+  },
+  'Antarctica/Palmer': {
+    name: 'Antarctica/Palmer',
+    country: 'AQ',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'Antarctica/Rothera': {
+    name: 'Antarctica/Rothera',
+    country: 'AQ',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'Antarctica/Syowa': {
+    name: 'Antarctica/Syowa',
+    country: 'AQ',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Antarctica/Troll': {
+    name: 'Antarctica/Troll',
+    country: 'AQ',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Antarctica/Vostok': {
+    name: 'Antarctica/Vostok',
+    country: 'AQ',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: null
+  },
+  'Europe/Oslo': {
+    name: 'Europe/Oslo',
+    country: 'NO',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Asia/Riyadh': {
+    name: 'Asia/Riyadh',
+    country: 'SA',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Almaty': {
+    name: 'Asia/Almaty',
+    country: 'KZ',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: null
+  },
+  'Asia/Amman': {
+    name: 'Asia/Amman',
+    country: 'JO',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Anadyr': {
+    name: 'Asia/Anadyr',
+    country: 'RU',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: null
+  },
+  'Asia/Aqtau': {
+    name: 'Asia/Aqtau',
+    country: 'KZ',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Asia/Aqtobe': {
+    name: 'Asia/Aqtobe',
+    country: 'KZ',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Asia/Ashgabat': {
+    name: 'Asia/Ashgabat',
+    country: 'TM',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Asia/Atyrau': {
+    name: 'Asia/Atyrau',
+    country: 'KZ',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Asia/Baghdad': {
+    name: 'Asia/Baghdad',
+    country: 'IQ',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Qatar': {
+    name: 'Asia/Qatar',
+    country: 'QA',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Baku': {
+    name: 'Asia/Baku',
+    country: 'AZ',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Asia/Bangkok': {
+    name: 'Asia/Bangkok',
+    country: 'TH',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Asia/Barnaul': {
+    name: 'Asia/Barnaul',
+    country: 'RU',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Asia/Beirut': {
+    name: 'Asia/Beirut',
+    country: 'LB',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Bishkek': {
+    name: 'Asia/Bishkek',
+    country: 'KG',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: null
+  },
+  'Asia/Brunei': {
+    name: 'Asia/Brunei',
+    country: 'BN',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Asia/Kolkata': {
+    name: 'Asia/Kolkata',
+    country: 'IN',
+    utcOffset: 330,
+    utcOffsetStr: '+05:30',
+    dstOffset: 330,
+    dstOffsetStr: '+05:30',
+    aliasOf: null
+  },
+  'Asia/Chita': {
+    name: 'Asia/Chita',
+    country: 'RU',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: null
+  },
+  'Asia/Choibalsan': {
+    name: 'Asia/Choibalsan',
+    country: 'MN',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Asia/Shanghai': {
+    name: 'Asia/Shanghai',
+    country: 'CN',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Asia/Colombo': {
+    name: 'Asia/Colombo',
+    country: 'LK',
+    utcOffset: 330,
+    utcOffsetStr: '+05:30',
+    dstOffset: 330,
+    dstOffsetStr: '+05:30',
+    aliasOf: null
+  },
+  'Asia/Dhaka': {
+    name: 'Asia/Dhaka',
+    country: 'BD',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: null
+  },
+  'Asia/Damascus': {
+    name: 'Asia/Damascus',
+    country: 'SY',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Dili': {
+    name: 'Asia/Dili',
+    country: 'TL',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: null
+  },
+  'Asia/Dubai': {
+    name: 'Asia/Dubai',
+    country: 'AE',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Asia/Dushanbe': {
+    name: 'Asia/Dushanbe',
+    country: 'TJ',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Asia/Famagusta': {
+    name: 'Asia/Famagusta',
+    country: 'CY',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Gaza': {
+    name: 'Asia/Gaza',
+    country: 'PS',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Hebron': {
+    name: 'Asia/Hebron',
+    country: 'PS',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Ho_Chi_Minh': {
+    name: 'Asia/Ho_Chi_Minh',
+    country: 'VN',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Asia/Hong_Kong': {
+    name: 'Asia/Hong_Kong',
+    country: 'HK',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Asia/Hovd': {
+    name: 'Asia/Hovd',
+    country: 'MN',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Asia/Irkutsk': {
+    name: 'Asia/Irkutsk',
+    country: 'RU',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Europe/Istanbul': {
+    name: 'Europe/Istanbul',
+    country: 'TR',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Jakarta': {
+    name: 'Asia/Jakarta',
+    country: 'ID',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Asia/Jayapura': {
+    name: 'Asia/Jayapura',
+    country: 'ID',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: null
+  },
+  'Asia/Jerusalem': {
+    name: 'Asia/Jerusalem',
+    country: 'IL',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Kabul': {
+    name: 'Asia/Kabul',
+    country: 'AF',
+    utcOffset: 270,
+    utcOffsetStr: '+04:30',
+    dstOffset: 270,
+    dstOffsetStr: '+04:30',
+    aliasOf: null
+  },
+  'Asia/Kamchatka': {
+    name: 'Asia/Kamchatka',
+    country: 'RU',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: null
+  },
+  'Asia/Karachi': {
+    name: 'Asia/Karachi',
+    country: 'PK',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Asia/Urumqi': {
+    name: 'Asia/Urumqi',
+    country: 'CN',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: null
+  },
+  'Asia/Kathmandu': {
+    name: 'Asia/Kathmandu',
+    country: 'NP',
+    utcOffset: 345,
+    utcOffsetStr: '+05:45',
+    dstOffset: 345,
+    dstOffsetStr: '+05:45',
+    aliasOf: null
+  },
+  'Asia/Khandyga': {
+    name: 'Asia/Khandyga',
+    country: 'RU',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: null
+  },
+  'Asia/Krasnoyarsk': {
+    name: 'Asia/Krasnoyarsk',
+    country: 'RU',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Asia/Kuala_Lumpur': {
+    name: 'Asia/Kuala_Lumpur',
+    country: 'MY',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Asia/Kuching': {
+    name: 'Asia/Kuching',
+    country: 'MY',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Asia/Macau': {
+    name: 'Asia/Macau',
+    country: 'MO',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Asia/Magadan': {
+    name: 'Asia/Magadan',
+    country: 'RU',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Asia/Makassar': {
+    name: 'Asia/Makassar',
+    country: 'ID',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Asia/Manila': {
+    name: 'Asia/Manila',
+    country: 'PH',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Asia/Nicosia': {
+    name: 'Asia/Nicosia',
+    country: 'CY',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Asia/Novokuznetsk': {
+    name: 'Asia/Novokuznetsk',
+    country: 'RU',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Asia/Novosibirsk': {
+    name: 'Asia/Novosibirsk',
+    country: 'RU',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Asia/Omsk': {
+    name: 'Asia/Omsk',
+    country: 'RU',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: null
+  },
+  'Asia/Oral': {
+    name: 'Asia/Oral',
+    country: 'KZ',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Asia/Pontianak': {
+    name: 'Asia/Pontianak',
+    country: 'ID',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Asia/Pyongyang': {
+    name: 'Asia/Pyongyang',
+    country: 'KP',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: null
+  },
+  'Asia/Qostanay': {
+    name: 'Asia/Qostanay',
+    country: 'KZ',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: null
+  },
+  'Asia/Qyzylorda': {
+    name: 'Asia/Qyzylorda',
+    country: 'KZ',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Asia/Rangoon': {
+    name: 'Asia/Rangoon',
+    country: 'MM',
+    utcOffset: 390,
+    utcOffsetStr: '+06:30',
+    dstOffset: 390,
+    dstOffsetStr: '+06:30',
+    aliasOf: null
+  },
+  'Asia/Sakhalin': {
+    name: 'Asia/Sakhalin',
+    country: 'RU',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Asia/Samarkand': {
+    name: 'Asia/Samarkand',
+    country: 'UZ',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Asia/Seoul': {
+    name: 'Asia/Seoul',
+    country: 'KR',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: null
+  },
+  'Asia/Srednekolymsk': {
+    name: 'Asia/Srednekolymsk',
+    country: 'RU',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Asia/Taipei': {
+    name: 'Asia/Taipei',
+    country: 'TW',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Asia/Tashkent': {
+    name: 'Asia/Tashkent',
+    country: 'UZ',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Asia/Tbilisi': {
+    name: 'Asia/Tbilisi',
+    country: 'GE',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Asia/Tehran': {
+    name: 'Asia/Tehran',
+    country: 'IR',
+    utcOffset: 210,
+    utcOffsetStr: '+03:30',
+    dstOffset: 270,
+    dstOffsetStr: '+04:30',
+    aliasOf: null
+  },
+  'Asia/Thimphu': {
+    name: 'Asia/Thimphu',
+    country: 'BT',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: null
+  },
+  'Asia/Tokyo': {
+    name: 'Asia/Tokyo',
+    country: 'JP',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: null
+  },
+  'Asia/Tomsk': {
+    name: 'Asia/Tomsk',
+    country: 'RU',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Asia/Ulaanbaatar': {
+    name: 'Asia/Ulaanbaatar',
+    country: 'MN',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Asia/Ust-Nera': {
+    name: 'Asia/Ust-Nera',
+    country: 'RU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: null
+  },
+  'Asia/Vladivostok': {
+    name: 'Asia/Vladivostok',
+    country: 'RU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: null
+  },
+  'Asia/Yakutsk': {
+    name: 'Asia/Yakutsk',
+    country: 'RU',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: null
+  },
+  'Asia/Yekaterinburg': {
+    name: 'Asia/Yekaterinburg',
+    country: 'RU',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Asia/Yerevan': {
+    name: 'Asia/Yerevan',
+    country: 'AM',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Atlantic/Azores': {
+    name: 'Atlantic/Azores',
+    country: 'PT',
+    utcOffset: -60,
+    utcOffsetStr: '-01:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: null
+  },
+  'Atlantic/Bermuda': {
+    name: 'Atlantic/Bermuda',
+    country: 'BM',
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'Atlantic/Canary': {
+    name: 'Atlantic/Canary',
+    country: 'ES',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Atlantic/Cape_Verde': {
+    name: 'Atlantic/Cape_Verde',
+    country: 'CV',
+    utcOffset: -60,
+    utcOffsetStr: '-01:00',
+    dstOffset: -60,
+    dstOffsetStr: '-01:00',
+    aliasOf: null
+  },
+  'Atlantic/Faroe': {
+    name: 'Atlantic/Faroe',
+    country: 'FO',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Atlantic/Madeira': {
+    name: 'Atlantic/Madeira',
+    country: 'PT',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Atlantic/Reykjavik': {
+    name: 'Atlantic/Reykjavik',
+    country: 'IS',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: null
+  },
+  'Atlantic/South_Georgia': {
+    name: 'Atlantic/South_Georgia',
+    country: 'GS',
+    utcOffset: -120,
+    utcOffsetStr: '-02:00',
+    dstOffset: -120,
+    dstOffsetStr: '-02:00',
+    aliasOf: null
+  },
+  'Atlantic/Stanley': {
+    name: 'Atlantic/Stanley',
+    country: 'FK',
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'Australia/Sydney': {
+    name: 'Australia/Sydney',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Australia/Adelaide': {
+    name: 'Australia/Adelaide',
+    country: 'AU',
+    utcOffset: 570,
+    utcOffsetStr: '+09:30',
+    dstOffset: 630,
+    dstOffsetStr: '+10:30',
+    aliasOf: null
+  },
+  'Australia/Brisbane': {
+    name: 'Australia/Brisbane',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: null
+  },
+  'Australia/Broken_Hill': {
+    name: 'Australia/Broken_Hill',
+    country: 'AU',
+    utcOffset: 570,
+    utcOffsetStr: '+09:30',
+    dstOffset: 630,
+    dstOffsetStr: '+10:30',
+    aliasOf: null
+  },
+  'Australia/Hobart': {
+    name: 'Australia/Hobart',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Australia/Darwin': {
+    name: 'Australia/Darwin',
+    country: 'AU',
+    utcOffset: 570,
+    utcOffsetStr: '+09:30',
+    dstOffset: 570,
+    dstOffsetStr: '+09:30',
+    aliasOf: null
+  },
+  'Australia/Eucla': {
+    name: 'Australia/Eucla',
+    country: 'AU',
+    utcOffset: 525,
+    utcOffsetStr: '+08:45',
+    dstOffset: 525,
+    dstOffsetStr: '+08:45',
+    aliasOf: null
+  },
+  'Australia/Lord_Howe': {
+    name: 'Australia/Lord_Howe',
+    country: 'AU',
+    utcOffset: 630,
+    utcOffsetStr: '+10:30',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Australia/Lindeman': {
+    name: 'Australia/Lindeman',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: null
+  },
+  'Australia/Melbourne': {
+    name: 'Australia/Melbourne',
+    country: 'AU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Australia/Perth': {
+    name: 'Australia/Perth',
+    country: 'AU',
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  CET: {
+    name: 'CET',
+    country: null,
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Pacific/Easter': {
+    name: 'Pacific/Easter',
+    country: 'CL',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  CST6CDT: {
+    name: 'CST6CDT',
+    country: null,
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  EET: {
+    name: 'EET',
+    country: null,
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Dublin': {
+    name: 'Europe/Dublin',
+    country: 'IE',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  EST: {
+    name: 'EST',
+    country: null,
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  EST5EDT: {
+    name: 'EST5EDT',
+    country: null,
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'Etc/GMT-0': {
+    name: 'Etc/GMT-0',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: null
+  },
+  'Etc/GMT-1': {
+    name: 'Etc/GMT-1',
+    country: null,
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Pacific/Port_Moresby': {
+    name: 'Pacific/Port_Moresby',
+    country: 'PG',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: null
+  },
+  'Etc/GMT-11': {
+    name: 'Etc/GMT-11',
+    country: null,
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Pacific/Tarawa': {
+    name: 'Pacific/Tarawa',
+    country: 'KI',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: null
+  },
+  'Etc/GMT-13': {
+    name: 'Etc/GMT-13',
+    country: null,
+    utcOffset: 780,
+    utcOffsetStr: '+13:00',
+    dstOffset: 780,
+    dstOffsetStr: '+13:00',
+    aliasOf: null
+  },
+  'Etc/GMT-14': {
+    name: 'Etc/GMT-14',
+    country: null,
+    utcOffset: 840,
+    utcOffsetStr: '+14:00',
+    dstOffset: 840,
+    dstOffsetStr: '+14:00',
+    aliasOf: null
+  },
+  'Etc/GMT-2': {
+    name: 'Etc/GMT-2',
+    country: null,
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Etc/GMT-3': {
+    name: 'Etc/GMT-3',
+    country: null,
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Etc/GMT-4': {
+    name: 'Etc/GMT-4',
+    country: null,
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Etc/GMT-5': {
+    name: 'Etc/GMT-5',
+    country: null,
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Etc/GMT-6': {
+    name: 'Etc/GMT-6',
+    country: null,
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: null
+  },
+  'Indian/Christmas': {
+    name: 'Indian/Christmas',
+    country: 'CX',
+    utcOffset: 420,
+    utcOffsetStr: '+07:00',
+    dstOffset: 420,
+    dstOffsetStr: '+07:00',
+    aliasOf: null
+  },
+  'Etc/GMT-8': {
+    name: 'Etc/GMT-8',
+    country: null,
+    utcOffset: 480,
+    utcOffsetStr: '+08:00',
+    dstOffset: 480,
+    dstOffsetStr: '+08:00',
+    aliasOf: null
+  },
+  'Pacific/Palau': {
+    name: 'Pacific/Palau',
+    country: 'PW',
+    utcOffset: 540,
+    utcOffsetStr: '+09:00',
+    dstOffset: 540,
+    dstOffsetStr: '+09:00',
+    aliasOf: null
+  },
+  'Etc/GMT+1': {
+    name: 'Etc/GMT+1',
+    country: null,
+    utcOffset: -60,
+    utcOffsetStr: '-01:00',
+    dstOffset: -60,
+    dstOffsetStr: '-01:00',
+    aliasOf: null
+  },
+  'Etc/GMT+10': {
+    name: 'Etc/GMT+10',
+    country: null,
+    utcOffset: -600,
+    utcOffsetStr: '-10:00',
+    dstOffset: -600,
+    dstOffsetStr: '-10:00',
+    aliasOf: null
+  },
+  'Etc/GMT+11': {
+    name: 'Etc/GMT+11',
+    country: null,
+    utcOffset: -660,
+    utcOffsetStr: '-11:00',
+    dstOffset: -660,
+    dstOffsetStr: '-11:00',
+    aliasOf: null
+  },
+  'Etc/GMT+12': {
+    name: 'Etc/GMT+12',
+    country: null,
+    utcOffset: -720,
+    utcOffsetStr: '-12:00',
+    dstOffset: -720,
+    dstOffsetStr: '-12:00',
+    aliasOf: null
+  },
+  'Etc/GMT+3': {
+    name: 'Etc/GMT+3',
+    country: null,
+    utcOffset: -180,
+    utcOffsetStr: '-03:00',
+    dstOffset: -180,
+    dstOffsetStr: '-03:00',
+    aliasOf: null
+  },
+  'Etc/GMT+4': {
+    name: 'Etc/GMT+4',
+    country: null,
+    utcOffset: -240,
+    utcOffsetStr: '-04:00',
+    dstOffset: -240,
+    dstOffsetStr: '-04:00',
+    aliasOf: null
+  },
+  'Etc/GMT+5': {
+    name: 'Etc/GMT+5',
+    country: null,
+    utcOffset: -300,
+    utcOffsetStr: '-05:00',
+    dstOffset: -300,
+    dstOffsetStr: '-05:00',
+    aliasOf: null
+  },
+  'Etc/GMT+6': {
+    name: 'Etc/GMT+6',
+    country: null,
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'Etc/GMT+7': {
+    name: 'Etc/GMT+7',
+    country: null,
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  'Etc/GMT+8': {
+    name: 'Etc/GMT+8',
+    country: null,
+    utcOffset: -480,
+    utcOffsetStr: '-08:00',
+    dstOffset: -480,
+    dstOffsetStr: '-08:00',
+    aliasOf: null
+  },
+  'Etc/GMT+9': {
+    name: 'Etc/GMT+9',
+    country: null,
+    utcOffset: -540,
+    utcOffsetStr: '-09:00',
+    dstOffset: -540,
+    dstOffsetStr: '-09:00',
+    aliasOf: null
+  },
+  'Etc/UTC': {
+    name: 'Etc/UTC',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 0,
+    dstOffsetStr: '+00:00',
+    aliasOf: null
+  },
+  'Europe/Amsterdam': {
+    name: 'Europe/Amsterdam',
+    country: 'NL',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Andorra': {
+    name: 'Europe/Andorra',
+    country: 'AD',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Astrakhan': {
+    name: 'Europe/Astrakhan',
+    country: 'RU',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Europe/Athens': {
+    name: 'Europe/Athens',
+    country: 'GR',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/London': {
+    name: 'Europe/London',
+    country: 'GB',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Europe/Belgrade': {
+    name: 'Europe/Belgrade',
+    country: 'RS',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Berlin': {
+    name: 'Europe/Berlin',
+    country: 'DE',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Prague': {
+    name: 'Europe/Prague',
+    country: 'CZ',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Brussels': {
+    name: 'Europe/Brussels',
+    country: 'BE',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Bucharest': {
+    name: 'Europe/Bucharest',
+    country: 'RO',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Budapest': {
+    name: 'Europe/Budapest',
+    country: 'HU',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Zurich': {
+    name: 'Europe/Zurich',
+    country: 'CH',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Chisinau': {
+    name: 'Europe/Chisinau',
+    country: 'MD',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Copenhagen': {
+    name: 'Europe/Copenhagen',
+    country: 'DK',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Gibraltar': {
+    name: 'Europe/Gibraltar',
+    country: 'GI',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Helsinki': {
+    name: 'Europe/Helsinki',
+    country: 'FI',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Kaliningrad': {
+    name: 'Europe/Kaliningrad',
+    country: 'RU',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Kiev': {
+    name: 'Europe/Kiev',
+    country: 'UA',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Kirov': {
+    name: 'Europe/Kirov',
+    country: 'RU',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Lisbon': {
+    name: 'Europe/Lisbon',
+    country: 'PT',
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  },
+  'Europe/Luxembourg': {
+    name: 'Europe/Luxembourg',
+    country: 'LU',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Madrid': {
+    name: 'Europe/Madrid',
+    country: 'ES',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Malta': {
+    name: 'Europe/Malta',
+    country: 'MT',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Minsk': {
+    name: 'Europe/Minsk',
+    country: 'BY',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Monaco': {
+    name: 'Europe/Monaco',
+    country: 'MC',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Moscow': {
+    name: 'Europe/Moscow',
+    country: 'RU',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Paris': {
+    name: 'Europe/Paris',
+    country: 'FR',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Riga': {
+    name: 'Europe/Riga',
+    country: 'LV',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Rome': {
+    name: 'Europe/Rome',
+    country: 'IT',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Samara': {
+    name: 'Europe/Samara',
+    country: 'RU',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Europe/Saratov': {
+    name: 'Europe/Saratov',
+    country: 'RU',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Europe/Simferopol': {
+    name: 'Europe/Simferopol',
+    country: 'UA',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Sofia': {
+    name: 'Europe/Sofia',
+    country: 'BG',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Stockholm': {
+    name: 'Europe/Stockholm',
+    country: 'SE',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Tallinn': {
+    name: 'Europe/Tallinn',
+    country: 'EE',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Tirane': {
+    name: 'Europe/Tirane',
+    country: 'AL',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Ulyanovsk': {
+    name: 'Europe/Ulyanovsk',
+    country: 'RU',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Europe/Uzhgorod': {
+    name: 'Europe/Uzhgorod',
+    country: 'UA',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Vienna': {
+    name: 'Europe/Vienna',
+    country: 'AT',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Vilnius': {
+    name: 'Europe/Vilnius',
+    country: 'LT',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Volgograd': {
+    name: 'Europe/Volgograd',
+    country: 'RU',
+    utcOffset: 180,
+    utcOffsetStr: '+03:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  'Europe/Warsaw': {
+    name: 'Europe/Warsaw',
+    country: 'PL',
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  'Europe/Zaporozhye': {
+    name: 'Europe/Zaporozhye',
+    country: 'UA',
+    utcOffset: 120,
+    utcOffsetStr: '+02:00',
+    dstOffset: 180,
+    dstOffsetStr: '+03:00',
+    aliasOf: null
+  },
+  HST: {
+    name: 'HST',
+    country: null,
+    utcOffset: -600,
+    utcOffsetStr: '-10:00',
+    dstOffset: -600,
+    dstOffsetStr: '-10:00',
+    aliasOf: null
+  },
+  'Indian/Chagos': {
+    name: 'Indian/Chagos',
+    country: 'IO',
+    utcOffset: 360,
+    utcOffsetStr: '+06:00',
+    dstOffset: 360,
+    dstOffsetStr: '+06:00',
+    aliasOf: null
+  },
+  'Indian/Cocos': {
+    name: 'Indian/Cocos',
+    country: 'CC',
+    utcOffset: 390,
+    utcOffsetStr: '+06:30',
+    dstOffset: 390,
+    dstOffsetStr: '+06:30',
+    aliasOf: null
+  },
+  'Indian/Kerguelen': {
+    name: 'Indian/Kerguelen',
+    country: 'TF',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Indian/Mahe': {
+    name: 'Indian/Mahe',
+    country: 'SC',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Indian/Maldives': {
+    name: 'Indian/Maldives',
+    country: 'MV',
+    utcOffset: 300,
+    utcOffsetStr: '+05:00',
+    dstOffset: 300,
+    dstOffsetStr: '+05:00',
+    aliasOf: null
+  },
+  'Indian/Mauritius': {
+    name: 'Indian/Mauritius',
+    country: 'MU',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Indian/Reunion': {
+    name: 'Indian/Reunion',
+    country: 'RE',
+    utcOffset: 240,
+    utcOffsetStr: '+04:00',
+    dstOffset: 240,
+    dstOffsetStr: '+04:00',
+    aliasOf: null
+  },
+  'Pacific/Kwajalein': {
+    name: 'Pacific/Kwajalein',
+    country: 'MH',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: null
+  },
+  MET: {
+    name: 'MET',
+    country: null,
+    utcOffset: 60,
+    utcOffsetStr: '+01:00',
+    dstOffset: 120,
+    dstOffsetStr: '+02:00',
+    aliasOf: null
+  },
+  MST: {
+    name: 'MST',
+    country: null,
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  MST7MDT: {
+    name: 'MST7MDT',
+    country: null,
+    utcOffset: -420,
+    utcOffsetStr: '-07:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'Pacific/Chatham': {
+    name: 'Pacific/Chatham',
+    country: 'NZ',
+    utcOffset: 765,
+    utcOffsetStr: '+12:45',
+    dstOffset: 825,
+    dstOffsetStr: '+13:45',
+    aliasOf: null
+  },
+  'Pacific/Apia': {
+    name: 'Pacific/Apia',
+    country: 'WS',
+    utcOffset: 780,
+    utcOffsetStr: '+13:00',
+    dstOffset: 840,
+    dstOffsetStr: '+14:00',
+    aliasOf: null
+  },
+  'Pacific/Bougainville': {
+    name: 'Pacific/Bougainville',
+    country: 'PG',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Pacific/Chuuk': {
+    name: 'Pacific/Chuuk',
+    country: 'FM',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: null
+  },
+  'Pacific/Efate': {
+    name: 'Pacific/Efate',
+    country: 'VU',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Pacific/Enderbury': {
+    name: 'Pacific/Enderbury',
+    country: 'KI',
+    utcOffset: 780,
+    utcOffsetStr: '+13:00',
+    dstOffset: 780,
+    dstOffsetStr: '+13:00',
+    aliasOf: null
+  },
+  'Pacific/Fakaofo': {
+    name: 'Pacific/Fakaofo',
+    country: 'TK',
+    utcOffset: 780,
+    utcOffsetStr: '+13:00',
+    dstOffset: 780,
+    dstOffsetStr: '+13:00',
+    aliasOf: null
+  },
+  'Pacific/Fiji': {
+    name: 'Pacific/Fiji',
+    country: 'FJ',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 780,
+    dstOffsetStr: '+13:00',
+    aliasOf: null
+  },
+  'Pacific/Galapagos': {
+    name: 'Pacific/Galapagos',
+    country: 'EC',
+    utcOffset: -360,
+    utcOffsetStr: '-06:00',
+    dstOffset: -360,
+    dstOffsetStr: '-06:00',
+    aliasOf: null
+  },
+  'Pacific/Gambier': {
+    name: 'Pacific/Gambier',
+    country: 'PF',
+    utcOffset: -540,
+    utcOffsetStr: '-09:00',
+    dstOffset: -540,
+    dstOffsetStr: '-09:00',
+    aliasOf: null
+  },
+  'Pacific/Guadalcanal': {
+    name: 'Pacific/Guadalcanal',
+    country: 'SB',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Pacific/Guam': {
+    name: 'Pacific/Guam',
+    country: 'GU',
+    utcOffset: 600,
+    utcOffsetStr: '+10:00',
+    dstOffset: 600,
+    dstOffsetStr: '+10:00',
+    aliasOf: null
+  },
+  'Pacific/Honolulu': {
+    name: 'Pacific/Honolulu',
+    country: 'US',
+    utcOffset: -600,
+    utcOffsetStr: '-10:00',
+    dstOffset: -600,
+    dstOffsetStr: '-10:00',
+    aliasOf: null
+  },
+  'Pacific/Kiritimati': {
+    name: 'Pacific/Kiritimati',
+    country: 'KI',
+    utcOffset: 840,
+    utcOffsetStr: '+14:00',
+    dstOffset: 840,
+    dstOffsetStr: '+14:00',
+    aliasOf: null
+  },
+  'Pacific/Kosrae': {
+    name: 'Pacific/Kosrae',
+    country: 'FM',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Pacific/Majuro': {
+    name: 'Pacific/Majuro',
+    country: 'MH',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: null
+  },
+  'Pacific/Marquesas': {
+    name: 'Pacific/Marquesas',
+    country: 'PF',
+    utcOffset: -570,
+    utcOffsetStr: '-10:30',
+    dstOffset: -570,
+    dstOffsetStr: '-10:30',
+    aliasOf: null
+  },
+  'Pacific/Pago_Pago': {
+    name: 'Pacific/Pago_Pago',
+    country: 'AS',
+    utcOffset: -660,
+    utcOffsetStr: '-11:00',
+    dstOffset: -660,
+    dstOffsetStr: '-11:00',
+    aliasOf: null
+  },
+  'Pacific/Nauru': {
+    name: 'Pacific/Nauru',
+    country: 'NR',
+    utcOffset: 720,
+    utcOffsetStr: '+12:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: null
+  },
+  'Pacific/Niue': {
+    name: 'Pacific/Niue',
+    country: 'NU',
+    utcOffset: -660,
+    utcOffsetStr: '-11:00',
+    dstOffset: -660,
+    dstOffsetStr: '-11:00',
+    aliasOf: null
+  },
+  'Pacific/Norfolk': {
+    name: 'Pacific/Norfolk',
+    country: 'NF',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 720,
+    dstOffsetStr: '+12:00',
+    aliasOf: null
+  },
+  'Pacific/Noumea': {
+    name: 'Pacific/Noumea',
+    country: 'NC',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Pacific/Pitcairn': {
+    name: 'Pacific/Pitcairn',
+    country: 'PN',
+    utcOffset: -480,
+    utcOffsetStr: '-08:00',
+    dstOffset: -480,
+    dstOffsetStr: '-08:00',
+    aliasOf: null
+  },
+  'Pacific/Pohnpei': {
+    name: 'Pacific/Pohnpei',
+    country: 'FM',
+    utcOffset: 660,
+    utcOffsetStr: '+11:00',
+    dstOffset: 660,
+    dstOffsetStr: '+11:00',
+    aliasOf: null
+  },
+  'Pacific/Rarotonga': {
+    name: 'Pacific/Rarotonga',
+    country: 'CK',
+    utcOffset: -600,
+    utcOffsetStr: '-10:00',
+    dstOffset: -600,
+    dstOffsetStr: '-10:00',
+    aliasOf: null
+  },
+  'Pacific/Tahiti': {
+    name: 'Pacific/Tahiti',
+    country: 'PF',
+    utcOffset: -600,
+    utcOffsetStr: '-10:00',
+    dstOffset: -600,
+    dstOffsetStr: '-10:00',
+    aliasOf: null
+  },
+  'Pacific/Tongatapu': {
+    name: 'Pacific/Tongatapu',
+    country: 'TO',
+    utcOffset: 780,
+    utcOffsetStr: '+13:00',
+    dstOffset: 780,
+    dstOffsetStr: '+13:00',
+    aliasOf: null
+  },
+  PST8PDT: {
+    name: 'PST8PDT',
+    country: null,
+    utcOffset: -480,
+    utcOffsetStr: '-08:00',
+    dstOffset: -420,
+    dstOffsetStr: '-07:00',
+    aliasOf: null
+  },
+  WET: {
+    name: 'WET',
+    country: null,
+    utcOffset: 0,
+    utcOffsetStr: '+00:00',
+    dstOffset: 60,
+    dstOffsetStr: '+01:00',
+    aliasOf: null
+  }
+}

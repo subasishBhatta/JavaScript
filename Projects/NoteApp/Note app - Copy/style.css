@@ -1,0 +1,12 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+#navb, #addNote, #foot {
+    background-color: #004d40 !important;
+    border-radius: 0.8rem;
+}
+
+
+
+
